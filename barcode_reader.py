@@ -1,5 +1,5 @@
-from pdf2image import convert_from_path  # type: ignore
-from pyzbar.pyzbar import decode  # type: ignore
+from pdf2image.pdf2image import convert_from_path
+from pyzbar.pyzbar import decode
 
 from barcode_converter import barcode_converter
 
