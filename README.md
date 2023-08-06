@@ -20,7 +20,7 @@ Python script to quickly scan your email for bills with barcodes
   ```bash
   python3 main.py
   ```
-  - When prompted, add your e-mail and your password location (if you followed the exact steps of this tutorial, it will be literally `pass`)
+  - When prompted, add your e-mail and your password location (if you followed the exact steps of this tutorial, just type `pass`)
   - Your barcodes, with the related mail subjects will be saved in a file called `bills.txt`, at project root
   - There will be created two folders: `thrash` will contain attachments that do not contains barcodes, and `bills` will contain attachments that have.
   
