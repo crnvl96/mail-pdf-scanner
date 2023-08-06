@@ -1,5 +1,5 @@
 # mail-pdf-scanner
-    Python script to quickly scan your email for bills with barcodes
+Python script to quickly scan your email for bills with barcodes
 
 ## Usage
 - This guide assumes you have an Gmail account
