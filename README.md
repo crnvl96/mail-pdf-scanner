@@ -10,7 +10,7 @@ Python script to quickly scan your email for bills with barcodes
 - Configure an [app password](https://support.google.com/mail/answer/185833?hl=en) for your google account
 - save your password in a file
   ```bash
-  echo [YOUR_PASS] > password/pass
+  echo "YOUR_PASSWORD" > pass
   ```
 - Create a virtual environment and install the dependencies
   ```bash
